@@ -84,7 +84,7 @@
           <artifactId>maven-surefire-plugin</artifactId>
           <version>3.0.0-M5</version>
           <configuration>
-            <test>com.test.LatestBrain.Test</test>
+            <test>com.test.LatestBrain.Latest_use_Brain</test>
           </configuration>
         </plugin>
       </plugins>
