@@ -84,7 +84,7 @@
           <artifactId>maven-surefire-plugin</artifactId>
           <version>3.0.0-M5</version>
           <configuration>
-            <test>com.test.Latest_Brain.Brain_Backup_Sanity</test>
+            <test>com.test.Latest_Brain.Latest_use_Brain</test>
           </configuration>
         </plugin>
       </plugins>
